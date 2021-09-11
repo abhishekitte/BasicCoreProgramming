@@ -1,0 +1,14 @@
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\bin\Debug\netcoreapp3.1\BasicCoreProgramming.cs.exe
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\bin\Debug\netcoreapp3.1\BasicCoreProgramming.cs.deps.json
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\bin\Debug\netcoreapp3.1\BasicCoreProgramming.cs.runtimeconfig.json
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\bin\Debug\netcoreapp3.1\BasicCoreProgramming.cs.runtimeconfig.dev.json
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\bin\Debug\netcoreapp3.1\BasicCoreProgramming.cs.dll
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\bin\Debug\netcoreapp3.1\BasicCoreProgramming.cs.pdb
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\obj\Debug\netcoreapp3.1\BasicCoreProgramming.cs.csproj.AssemblyReference.cache
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\obj\Debug\netcoreapp3.1\BasicCoreProgramming.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\obj\Debug\netcoreapp3.1\BasicCoreProgramming.cs.AssemblyInfoInputs.cache
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\obj\Debug\netcoreapp3.1\BasicCoreProgramming.cs.AssemblyInfo.cs
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\obj\Debug\netcoreapp3.1\BasicCoreProgramming.cs.csproj.CoreCompileInputs.cache
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\obj\Debug\netcoreapp3.1\BasicCoreProgramming.cs.dll
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\obj\Debug\netcoreapp3.1\BasicCoreProgramming.cs.pdb
+C:\Users\pihu\source\repos\BasicCoreProgramming.cs\BasicCoreProgramming.cs\obj\Debug\netcoreapp3.1\BasicCoreProgramming.cs.genruntimeconfig.cache
